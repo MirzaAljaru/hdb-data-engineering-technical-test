@@ -1,5 +1,8 @@
 # HDB Data Engineering Technical Test
 
+Part 2 contains the [AWS ingestion and private Tableau architecture](part-2/README.md),
+with an integrated PNG, a single-page editable draw.io file, and design assumptions.
+
 The Part 1 pipeline is in `part-1/hdb_resale_pipeline.ipynb`. It processes
 HDB resale transactions for January 2012 through December 2016. The workflow
 covers extraction, profiling, validation, lease calculation, deduplication,
